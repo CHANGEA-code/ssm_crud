@@ -1,0 +1,8 @@
+com\zebin\bean\Department.class
+com\zebin\dao\DepartmentMapper.class
+com\zebin\test\MapperTest.class
+com\zebin\test\MbgTest.class
+com\zebin\controller\EmployeeController.class
+com\zebin\dao\EmployeeMapper.class
+com\zebin\service\EmployeeService.class
+com\zebin\bean\Employee.class
